@@ -1,0 +1,11 @@
+#step - 1
+ : - Install pytube package using "python -m pip install pytube"
+ : - Check whether your package is installed or not using "pip show pytube"
+ Incase if you get some errors using this to upgrade the pytube : "python -m pip install --upgrade pytube"
+#step - 2
+ : - Import the pytube package to the your main file
+
+# N.B
+ : - All your downloaded video stores in your project folder
+
+Try it! If you find some issues, you can contact me with my email address: ezgihaysh@gmail.com
